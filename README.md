@@ -1,0 +1,1 @@
+This Repo consists of the projects I made using Front-end Technologies like React and Redux.
